@@ -1,4 +1,5 @@
-# Gemma-2 (LoRA FineTuning)
+## Models Available for FineTuning
 
-## Requirements:
-- **TPU v3-8** (Kaggle)
+1. ### Gemma-2 (LoRA FineTuning)
+    #### Requirements:
+    - *TPU v3-8* (Kaggle)
